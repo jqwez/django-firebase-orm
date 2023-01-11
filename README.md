@@ -14,6 +14,8 @@
 
 # django-firebase-orm.
 
+forked from [TralahM](https://github.com/TralahM/django-firebase-orm) to support building a Django app that leverage Firebase Realtime Database.
+
 Django like models for NoSQL database Firestore Integrating with
 django\'s ORM. This is a fork and improvement of
 [firebase_orm](https://github.com/joewalk102/firebase-orm) project which
